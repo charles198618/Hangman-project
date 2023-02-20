@@ -1,2 +1,5 @@
-public class HangmanTest {
-}
+
+
+    public class HangmanTest {
+
+    }
